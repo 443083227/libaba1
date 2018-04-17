@@ -1,0 +1,17 @@
+/*
+*格式：方式|图片|标题|地址|备注
+*@x="3|图片|名称|地址|国产视频"
+*方式：0->无反应,1->浏览器直接打开,2->浏览器带接口打开,3->播放器打开
+*/
+
+<youma>
+*@x="1|http://video.vip5969.com:2100/20180105/wqtKrKpt/1.jpg|HODV - 21050 ed 2 k种子里M|http://video.vip5969.com:2100/share/G3vIQtXGNOBd5HdE|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180110/WZSdvqM5/1.jpg|IPTD - 738和我明絵甘|http://video.vip5969.com:2100/share/kzv9s5DfMC9b58qs|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180110/eHqwuJRm/1.jpg|性生活原田明絵hhb2|http://video.vip5969.com:2100/share/HI2DmvpSnGsHhCuu|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180105/Su4QwILT/1.jpg|麻美长泽绘里奈hhb1|http://video.vip5969.com:2100/share/3roRmoUGU6iT6CpC|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180105/gpd5T41m/1.jpg|長瀬麻美长泽绘里奈hhb2|http://video.vip5969.com:2100/share/wW7iGKqvIAOvY5fz|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180105/X0eS7RfR/1.jpg|连裤袜恋物癖|http://video.vip5969.com:2100/share/WcRR0uxVjMqqywj1|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180105/0Xp77vIB/1.jpg|PGD-565被治愈手|http://video.vip5969.com:2100/share/H3CkCNIoGBkXo1i4|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180110/JoL5ow6p/1.jpg|SOE-490 極美映像|http://video.vip5969.com:2100/share/I9Rw1L9yfC8rtxnj|亚洲有码"
+*@x="1|http://video.vip5969.com:2100/20180105/Q6sff1mC/1.jpg|PTD - 738和我明絵甘|http://video.vip5969.com:2100/share/KMXqeVcSw26hbhpC|亚洲有码"
+</youma>

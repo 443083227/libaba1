@@ -1,0 +1,21 @@
+/*
+*格式：方式|图片|标题|地址|备注
+*@x="3|图片|名称|地址|国产视频"
+*方式：0->无反应,1->浏览器直接打开,2->浏览器带接口打开,3->播放器打开
+*/
+
+<zhongwen>
+*@x="1|http://video.vip5969.com:2100/20180111/ClhSWnOt/1.jpg|MBD-147 可愛年輕人妻大募|http://video.vip5969.com:2100/share/ckVVnyd9GkQR0vkP|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/ppO30jfX/1.jpg|梦的一夫多妻制|http://video.vip5969.com:2100/share/75JQmwaDqpeabtN7|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/diBI8r0I/1.jpg|NXG-272R|http://video.vip5969.com:2100/share/D2RsRQIEQF8hh7ss|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/2OQ2vPz1/1.jpg|菅野出奇奇园田莎拉|http://video.vip5969.com:2100/share/EBZPR7r0Wfcee7bW|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/lQBFRqoQ/1.jpg|svdv305r|http://video.vip5969.com:2100/share/OctVgLf0r1hydUtN|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/CbYdZAyE/1.jpg|喝下發汗媚薬女職員|http://video.vip5969.com:2100/share/2D1hS8dy38YZpD3C|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/euDkAVvh/1.jpg|一見感覺對了|http://video.vip5969.com:2100/share/iai8d2tVNWV4q1ty|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/WHsg49wc/1.jpg|美女空姐猥亵的下半身|http://video.vip5969.com:2100/share/KG5QXCEb4T9kHzVu|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/xHOTOYTn/1.jpg|秘密女搜查官2 吉澤明步|ttp://video.vip5969.com:2100/share/uSqmpEpohe4gR7H1|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/Ai1gUnBY/1.jpg|不在家人家好寂寞的若妻|http://video.vip5969.com:2100/share/EoeXiR4nToHI2I3g|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/OT1VIszX/1.jpg|北川Erika园田尿素|ttp://video.vip5969.com:2100/share/MkSoeePbkYyOCNAT|中文字幕"
+*@x="1|http://video.vip5969.com:2100/20180111/Cg8oFExB/1.jpg|女友的姐姐|http://video.vip5969.com:2100/share/XFXTPXSDq194hVp2|中文字幕"
+
+</zhongwen>

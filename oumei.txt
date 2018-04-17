@@ -1,0 +1,20 @@
+/*
+*格式：方式|图片|标题|地址|备注
+*@x="3|图片|名称|地址|国产视频"
+*方式：0->无反应,1->浏览器直接打开,2->浏览器带接口打开,3->播放器打开
+*/
+
+<oumei>
+*@x="1|http://video.vip5969.com:2100/20180118/bwUDmPUN/1.jpg|Caprice - Paint me white|http://video.vip5969.com:2100/share/y6vEIJ79DCLMHYfv|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/95pF0HBJ/1.jpg|Sahara Knite|http://video.vip5969.com:2100/share/R5EK09dQ3QcY5a23|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/dUdiwh1y/1.jpg|Libellule|http://video.vip5969.com:2100/share/89DQv8O1aju4plOx|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/rwoty1Oj/1.jpg|parlorviewfancy1|http://video.vip5969.com:2100/share/RCekX6VB16X6P1ML|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/z1iMPJeA//1.jpg|arm332|http://video.vip5969.com:2100/share/63luItxQ9UqmMSMK|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/nmp6y5Ii/1.jpg|lexi-the super fun size fuck|http://video.vip5969.com:2100/share/71wrFm76xJRmO636|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/2GXvRPgB/1.jpg|Girls Night HDV|http://video.vip5969.com:2100/share/9WipZWtiHHUbDc29|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/lxbscIRk/1.jpg|kristen.working.out|http://video.vip5969.com:2100/share/1Xv3JvlzXgGNXVdm|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180118/resjI21b/1.jpg|Morning Memories|http://video.vip5969.com:2100/share/loYMXO8jiKCJSCPJ|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180109/FDX68xRn/1.jpg|veronica.barely.fits|http://video.vip5969.com:2100/share/Pp3D8PREjcF78Yo6|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180109/i8rEp0uj/1.jpg|maria.east.meets.west|http://video.vip5969.com:2100/share/NjDlZXedFyU8JIaJ|欧美视频"
+*@x="1|http://video.vip5969.com:2100/20180109/g1tjlkiP/1.jpg|eliza.jane.deep.in.love|http://video.vip5969.com:2100/share/FVV9HpNo4FkPqro8|欧美视频"
+</oumei>
